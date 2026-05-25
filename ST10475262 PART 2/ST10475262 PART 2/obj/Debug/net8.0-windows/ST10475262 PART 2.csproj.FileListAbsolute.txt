@@ -1,0 +1,17 @@
+C:\Users\Student\Documents\GitHub\prog6221-part2-ST10475262\ST10475262 PART 2\ST10475262 PART 2\bin\Debug\net8.0-windows\ST10475262 PART 2.exe
+C:\Users\Student\Documents\GitHub\prog6221-part2-ST10475262\ST10475262 PART 2\ST10475262 PART 2\bin\Debug\net8.0-windows\ST10475262 PART 2.deps.json
+C:\Users\Student\Documents\GitHub\prog6221-part2-ST10475262\ST10475262 PART 2\ST10475262 PART 2\bin\Debug\net8.0-windows\ST10475262 PART 2.runtimeconfig.json
+C:\Users\Student\Documents\GitHub\prog6221-part2-ST10475262\ST10475262 PART 2\ST10475262 PART 2\bin\Debug\net8.0-windows\ST10475262 PART 2.dll
+C:\Users\Student\Documents\GitHub\prog6221-part2-ST10475262\ST10475262 PART 2\ST10475262 PART 2\bin\Debug\net8.0-windows\ST10475262 PART 2.pdb
+C:\Users\Student\Documents\GitHub\prog6221-part2-ST10475262\ST10475262 PART 2\ST10475262 PART 2\obj\Debug\net8.0-windows\ST10475262_PART_2.Form1.resources
+C:\Users\Student\Documents\GitHub\prog6221-part2-ST10475262\ST10475262 PART 2\ST10475262 PART 2\obj\Debug\net8.0-windows\ST10475262 PART 2.csproj.GenerateResource.cache
+C:\Users\Student\Documents\GitHub\prog6221-part2-ST10475262\ST10475262 PART 2\ST10475262 PART 2\obj\Debug\net8.0-windows\ST10475262 PART 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\GitHub\prog6221-part2-ST10475262\ST10475262 PART 2\ST10475262 PART 2\obj\Debug\net8.0-windows\ST10475262 PART 2.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\GitHub\prog6221-part2-ST10475262\ST10475262 PART 2\ST10475262 PART 2\obj\Debug\net8.0-windows\ST10475262 PART 2.AssemblyInfo.cs
+C:\Users\Student\Documents\GitHub\prog6221-part2-ST10475262\ST10475262 PART 2\ST10475262 PART 2\obj\Debug\net8.0-windows\ST10475262 PART 2.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\prog6221-part2-ST10475262\ST10475262 PART 2\ST10475262 PART 2\obj\Debug\net8.0-windows\ST10475262 PART 2.sourcelink.json
+C:\Users\Student\Documents\GitHub\prog6221-part2-ST10475262\ST10475262 PART 2\ST10475262 PART 2\obj\Debug\net8.0-windows\ST10475262 PART 2.dll
+C:\Users\Student\Documents\GitHub\prog6221-part2-ST10475262\ST10475262 PART 2\ST10475262 PART 2\obj\Debug\net8.0-windows\refint\ST10475262 PART 2.dll
+C:\Users\Student\Documents\GitHub\prog6221-part2-ST10475262\ST10475262 PART 2\ST10475262 PART 2\obj\Debug\net8.0-windows\ST10475262 PART 2.pdb
+C:\Users\Student\Documents\GitHub\prog6221-part2-ST10475262\ST10475262 PART 2\ST10475262 PART 2\obj\Debug\net8.0-windows\ST10475262 PART 2.genruntimeconfig.cache
+C:\Users\Student\Documents\GitHub\prog6221-part2-ST10475262\ST10475262 PART 2\ST10475262 PART 2\obj\Debug\net8.0-windows\ref\ST10475262 PART 2.dll
